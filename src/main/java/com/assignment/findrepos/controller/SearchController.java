@@ -1,7 +1,7 @@
-package com.assignmnet.findrepos.controller;
+package com.assignment.findrepos.controller;
 
-import com.assignmnet.findrepos.model.MinimalRepo;
-import com.assignmnet.findrepos.service.GitHubSearchService;
+import com.assignment.findrepos.model.MinimalRepo;
+import com.assignment.findrepos.service.GitHubSearchService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.lang.NonNull;

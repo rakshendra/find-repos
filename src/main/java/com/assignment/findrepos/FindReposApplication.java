@@ -1,4 +1,4 @@
-package com.assignmnet.findrepos;
+package com.assignment.findrepos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

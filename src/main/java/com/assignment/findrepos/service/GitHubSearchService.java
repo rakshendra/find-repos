@@ -1,7 +1,7 @@
-package com.assignmnet.findrepos.service;
+package com.assignment.findrepos.service;
 
-import com.assignmnet.findrepos.model.GitHubSearchResults;
-import com.assignmnet.findrepos.model.MinimalRepo;
+import com.assignment.findrepos.model.MinimalRepo;
+import com.assignment.findrepos.model.GitHubSearchResults;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import okhttp3.OkHttpClient;

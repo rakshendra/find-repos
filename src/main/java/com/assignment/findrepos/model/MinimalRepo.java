@@ -1,4 +1,4 @@
-package com.assignmnet.findrepos.model;
+package com.assignment.findrepos.model;
 
 public class MinimalRepo {
 

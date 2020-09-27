@@ -1,4 +1,4 @@
-package com.assignmnet.findrepos.service;
+package com.assignment.findrepos.service;
 
 import org.springframework.stereotype.Service;
 

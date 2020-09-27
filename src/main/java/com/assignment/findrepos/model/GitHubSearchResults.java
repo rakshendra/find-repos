@@ -1,6 +1,4 @@
-package com.assignmnet.findrepos.model;
-
-import org.eclipse.egit.github.core.Repository;
+package com.assignment.findrepos.model;
 
 import java.util.List;
 
