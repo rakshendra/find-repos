@@ -7,3 +7,4 @@ Steps to use this project:
 
 Consuming the GET API
  - http://localhost:8080/github/repos/search/language-name 
+ - replace 'language-name' with the actual name
